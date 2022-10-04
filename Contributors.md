@@ -2146,6 +2146,7 @@ nowy wpis
 
 
 - [Md Rizwan](https://leetcode.com/rizwan073)
-- [Dr. Asshat](https://github.com/drasshat)
+- [Dr. Asshat](https://github.com/drasshat) 
+- [Ayesha Khan](https://github.com/Ayeshakhan79)
 
 <!-- prettier-ignore-end -->
